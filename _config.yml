@@ -18,10 +18,10 @@ rss: default
 # ===========================================
 menu:
   Home: /
-  # Archives: /archives/
+  Archives: /archives/
   # Tags: /tags
   # Categories: /categories
-  # Github: https://github.com/ahonn
+  Github: https://github.com/ahonn
   About: /about
 
 # ===========================================
