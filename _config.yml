@@ -32,7 +32,7 @@ menu:
 theme:
   color: Default
   toc: true
-  fancybox: false
+  fancybox: true
   pjax: true
 
 copyright:
