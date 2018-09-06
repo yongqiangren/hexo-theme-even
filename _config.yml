@@ -33,6 +33,9 @@ menu:
 # color: default | mint green | cobalt blue | hot pink | dark violet
 color: default
 
+# default page mode: default | archives
+mode: default
+
 toc: true
 
 # jQuery fancybox
@@ -102,4 +105,4 @@ livere_datauid:
 # ===========================================
 # Version
 # ===========================================
-version: 2.9.0
+version: 2.10.0
