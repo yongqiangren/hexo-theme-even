@@ -16,10 +16,6 @@ rss: default
 # ===========================================
 # Menu Settings
 # ===========================================
-# default page mode: default | archives
-mode: default
-
-# Site menu
 menu:
   Home: /
   Archives: /archives/
