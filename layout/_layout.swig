@@ -18,8 +18,10 @@
             {%- block content -%}{%- endblock -%}
           </div>
           {%- include '_partial/comments.swig' -%}
+          {%- include '_script/comments.swig' -%}
         </div>
       </main>
+
 
       <footer id="footer" class="footer">
         {%- include '_partial/footer.swig' -%}
@@ -30,7 +32,6 @@
       </div>
     </div>
 
-    {%- include '_script/comments.swig' -%}
 
     {%- include '_script/libs.swig' -%}
     {%- include '_script/theme.swig' -%}
